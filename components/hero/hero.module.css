@@ -1,14 +1,14 @@
 .wrapper {
     position: relative;
-    padding-top: rem(180px);
-    padding-bottom: rem(130px);
-    background-image: url(https://images.unsplash.com/photo-1512934772407-b292436089ee?q=80&w=2388&auto=format&fit=crop&w=980&q=80);
+    padding-top: rem(30px);
+    padding-bottom: rem(30px);
+    background-image: url("../../public/b77da5b7-9038-4907-b760-48c0abc4c2cb.jpeg");
     background-size: cover;
     background-position: center;
+    height: 450px;
   
     @media (max-width: $mantine-breakpoint-xs) {
-      padding-top: rem(80px);
-      padding-bottom: rem(50px);
+      height: 300px;
     }
 }
 
@@ -54,7 +54,8 @@
 .controls {
     margin-top: calc(var(--mantine-spacing-xl) * 1.5);
     display: flex;
-    justify-content: center;
+    //justify-content: center;
+    margin-left: 10%;
     padding-left: var(--mantine-spacing-md);
     padding-right: var(--mantine-spacing-md);
 

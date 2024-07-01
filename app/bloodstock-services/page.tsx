@@ -45,7 +45,8 @@ export default function BloodstockServices() {
                             </ProgressSection>
                         </ProgressRoot>
                         <Text c="dimmed">
-                            <b>Selecting the right horse for your success</b> – no matter the brief, Brendan strives to find the right value for a racehorse that will suit your purse
+                            <b>Selecting the right horse for your success</b> – no matter the brief, Brendan 
+                            strives to find the right value for a racehorse that will suit your purse
                         </Text>
                         <ProgressRoot radius="xl" size="xl" >
                             <ProgressSection value={66}>
@@ -53,10 +54,12 @@ export default function BloodstockServices() {
                             </ProgressSection>
                         </ProgressRoot>
                         <Text c="dimmed">
-                            <b>Bloodstock Agent</b> – Brendan acts on behalf of the client to purchase your horse directly.
+                            <b>Bloodstock Agent</b> – Brendan acts on behalf of the client to purchase your 
+                            horse directly.
                         </Text>
                         <Text c="dimmed" mt="sm">
-                            <b>Vet examinations</b> – Once the right horse has been found to meet your needs, different levels of a vet exam can be organised to suit.
+                            <b>Vet examinations</b> – Once the right horse has been found to meet your needs, 
+                            different levels of a vet exam can be organised to suit.
                         </Text>
                         <ProgressRoot radius="xl" size="xl" >
                             <ProgressSection value={100}>
@@ -64,7 +67,9 @@ export default function BloodstockServices() {
                             </ProgressSection>
                         </ProgressRoot>
                         <Text c="dimmed">
-                            <b>Delivered to your trainer’s barn</b> – All post-purchase organisation is completed for you, from air freight, road transport, HRNZ and HRA fees and registration, access to trainers, insurance, etc.
+                            <b>Delivered to your trainer's barn</b> – All post-purchase organisation is completed 
+                            for you, from air freight, road transport, HRNZ and HRA fees and registration, access to 
+                            trainers, insurance, etc.
                         </Text>
                     </Stack>
                 </div>

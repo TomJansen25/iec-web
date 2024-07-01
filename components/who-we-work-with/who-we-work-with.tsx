@@ -41,7 +41,7 @@ export function WhoWeWorkWith() {
 
     return (
         <Container size={900} className={classes.wrapper}>
-            <Text className={classes.supTitle}>Use cases</Text>
+            <Text className={classes.supTitle}>Collaborations</Text>
 
             <Title className={classes.title} order={2}>
                 Who we work with
