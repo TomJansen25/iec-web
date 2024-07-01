@@ -31,7 +31,7 @@ export default function BloodstockServices() {
                     <Text c="dimmed" mt="md">
                         With multiple generations and a lifetime of experience, Brendan was born into the harness 
                         racing industry. He has a keen eye for finding the right horses, where he devotes all his 
-                        time and attention to BPM's acquisitions.
+                        time and attention to BPM&apos;s acquisitions.
                     </Text>
                     <Text c="dimmed" mt="md">
                         No stone is left unturned. Brendan treats every horse like an addition to his personal 
@@ -63,11 +63,11 @@ export default function BloodstockServices() {
                         </Text>
                         <ProgressRoot radius="xl" size="xl" >
                             <ProgressSection value={100}>
-                                <ProgressLabel c={"white"}> Step 3 of 3</ProgressLabel>
+                                <ProgressLabel c={"white"}>Step 3 of 3</ProgressLabel>
                             </ProgressSection>
                         </ProgressRoot>
                         <Text c="dimmed">
-                            <b>Delivered to your trainer's barn</b> – All post-purchase organisation is completed 
+                            <b>Delivered to your trainer&apos;s barn</b> – All post-purchase organisation is completed 
                             for you, from air freight, road transport, HRNZ and HRA fees and registration, access to 
                             trainers, insurance, etc.
                         </Text>
